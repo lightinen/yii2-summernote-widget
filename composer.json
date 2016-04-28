@@ -1,5 +1,5 @@
 {
-	"name": "zelenin/yii2-summernote-widget",
+	"name": "lightinen/yii2-summernote-widget",
 	"description": "Yii2 Summernote widget. Super simple WYSIWYG editor on Bootstrap",
 	"version": "0.0.2",
 	"type": "yii2-extension",
